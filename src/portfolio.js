@@ -9,7 +9,7 @@ const about = {
   name: 'Tomas Astrada',
   role: 'Data Engineer',
   description:
-    'Adipisicing sit fugit ullam unde aliquid sequi Facilis soluta facilis perspiciatis corporis nulla aspernatur. Autem eligendi rerum delectus modi quisquam? Illo ut quasi nemo ipsa cumque perspiciatis! Maiores minima consectetur.',
+    'Hi! 👋 I\'m a Developer from Argentina who started as a self-taught Python learner, spent his time learning Web Dev, decided he wanted a challenge (Math is not my thing), and switched to studying the relevant tools and subjects to become a professional in the world of Big Data!',
   resume: 'https://docs.google.com/document/d/1qUwFZtSk4VUVrnHtah1OAebzErShhQG1aDqc6FgFxZY/edit?usp=sharing',
   social: {
     linkedin: 'https://www.linkedin.com/in/tomas-astrada/',
