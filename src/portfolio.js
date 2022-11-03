@@ -13,7 +13,7 @@ const about = {
   resume: 'https://docs.google.com/document/d/1qUwFZtSk4VUVrnHtah1OAebzErShhQG1aDqc6FgFxZY/edit?usp=sharing',
   social: {
     linkedin: 'https://www.linkedin.com/in/tomas-astrada/',
-    github: 'https://github.com/AstradaT',
+    github: 'https://github.com/AstradaT/',
   },
 }
 
