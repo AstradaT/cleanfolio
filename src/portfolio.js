@@ -10,7 +10,7 @@ const about = {
   role: 'Data Engineer',
   description:
     'Hi! 👋 I\'m a Developer from Argentina who started as a self-taught Python learner, spent his time learning Web Dev, decided he wanted a challenge (Math is not my thing), and switched to studying the relevant tools and subjects to become a professional in the world of Big Data!',
-  resume: 'https://docs.google.com/document/d/1qUwFZtSk4VUVrnHtah1OAebzErShhQG1aDqc6FgFxZY/edit?usp=sharing',
+  resume: 'https://docs.google.com/document/d/1qZ4e9Qj2XxRE8RHxQgvKBRCOeML1comNOIw4hbFgheI/edit?usp=sharing',
   social: {
     linkedin: 'https://www.linkedin.com/in/tomas-astrada/',
     github: 'https://github.com/AstradaT/',
@@ -56,6 +56,7 @@ const skills = [
   'Azure',
   'Git',
   'Spark',
+  'Django',
   'MinIO',
   'Hadoop',
   'Docker',
