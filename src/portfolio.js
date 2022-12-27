@@ -57,6 +57,7 @@ const skills = [
   'Git',
   'Spark',
   'Django',
+  'Flask',
   'MinIO',
   'Hadoop',
   'Docker',
